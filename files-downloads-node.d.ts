@@ -1,0 +1,1 @@
+declare module 'files-downloads-node.d.ts';

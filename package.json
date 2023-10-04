@@ -1,0 +1,35 @@
+{
+  "name": "files-downloads-node",
+  "version": "1.0.0",
+  "description": "Download files from the web in Node.js easily with files-download-node. Provide the URL and location, and the module will take care of the rest, simplifying your Node.js downloads.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "files-downloads-node.d.ts",
+  "bugs": {
+    "url": "https://github.com/lokuedo5000/files-downloads-node/issues"
+  },
+  "homepage": "https://github.com/lokuedo5000/files-downloads-node#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokuedo5000/files-downloads-node.git"
+  },
+  "keywords": [
+    "file download",
+    "Node.js",
+    "download automation",
+    "file management",
+    "asynchronous programming",
+    "download tool",
+    "file utility",
+    "web development",
+    "remote resource access"
+  ],
+  "author": "Lwte",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "files-downloads-node.d.ts"
+  ]
+}
